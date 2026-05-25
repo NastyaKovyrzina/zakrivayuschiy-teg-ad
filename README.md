@@ -2,4 +2,4 @@
 
 Финальный проект курса по фронтенд-разработке. Интерактивная страница-рефлексия о пути обучения с анимациями, модальными окнами и адаптивной вёрсткой.
 
-(https://nastyakovyrzina.github.io/zakrivayuschiy-teg-ad/)
+https://github.com/NastyaKovyrzina/zakrivayuschiy-teg-ad
